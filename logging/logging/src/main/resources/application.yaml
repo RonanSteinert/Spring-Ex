@@ -1,0 +1,13 @@
+var1: 2
+var2: 8
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  level:
+    co:
+      develhope:
+        logging:
+          services: DEBUG
+    root: INFO

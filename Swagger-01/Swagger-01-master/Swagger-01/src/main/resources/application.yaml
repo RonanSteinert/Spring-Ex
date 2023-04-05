@@ -1,0 +1,9 @@
+springdoc:
+  swagger-ui:
+    disable-swagger-default-url: true
+    urls[0]:
+      name: 'name'
+      url: '/v3/api-docs'
+
+server:
+  port: 1234
